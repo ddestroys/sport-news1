@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/sport-news1/static/css/main.97a4530d.chunk.css",
+    "main.js": "/sport-news1/static/js/main.ec94ed7e.chunk.js",
+    "main.js.map": "/sport-news1/static/js/main.ec94ed7e.chunk.js.map",
+    "runtime-main.js": "/sport-news1/static/js/runtime-main.48a02c88.js",
+    "runtime-main.js.map": "/sport-news1/static/js/runtime-main.48a02c88.js.map",
+    "static/css/2.6b560088.chunk.css": "/sport-news1/static/css/2.6b560088.chunk.css",
+    "static/js/2.a2103394.chunk.js": "/sport-news1/static/js/2.a2103394.chunk.js",
+    "static/js/2.a2103394.chunk.js.map": "/sport-news1/static/js/2.a2103394.chunk.js.map",
+    "index.html": "/sport-news1/index.html",
+    "static/css/2.6b560088.chunk.css.map": "/sport-news1/static/css/2.6b560088.chunk.css.map",
+    "static/css/main.97a4530d.chunk.css.map": "/sport-news1/static/css/main.97a4530d.chunk.css.map",
+    "static/js/2.a2103394.chunk.js.LICENSE.txt": "/sport-news1/static/js/2.a2103394.chunk.js.LICENSE.txt",
+    "static/media/instagram.02967a62.svg": "/sport-news1/static/media/instagram.02967a62.svg",
+    "static/media/logo.f59fa5f1.svg": "/sport-news1/static/media/logo.f59fa5f1.svg",
+    "static/media/right-arrow.b20e4da2.svg": "/sport-news1/static/media/right-arrow.b20e4da2.svg",
+    "static/media/telegram.86fe8f60.svg": "/sport-news1/static/media/telegram.86fe8f60.svg",
+    "static/media/vk.8e9ac5f1.svg": "/sport-news1/static/media/vk.8e9ac5f1.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.48a02c88.js",
+    "static/css/2.6b560088.chunk.css",
+    "static/js/2.a2103394.chunk.js",
+    "static/css/main.97a4530d.chunk.css",
+    "static/js/main.ec94ed7e.chunk.js"
+  ]
+}
